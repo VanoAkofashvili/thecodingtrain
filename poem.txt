@@ -3,5 +3,6 @@ Red
 Blue
 Pink
 Orange
+Purple
 Green
 This is poem about rainbow
